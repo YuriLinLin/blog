@@ -1,4 +1,4 @@
-package org.yuri.blog.blog.view;
+package org.yuri.blog.view;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
